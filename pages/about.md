@@ -16,8 +16,8 @@ credits: true
 
 This is a fun collection of my favorite female R&B Singers of the 90's. I hope you enjoy all of the pictures.
 
+{% include feature/image.html objectid="singer012" width="75" %}
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
