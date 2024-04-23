@@ -15,6 +15,7 @@ credits: true
 ## About the Collection
 
 This is a fun collection of my favorite female R&B Singers of the 90's. I hope you enjoy all of the pictures.
+I really love R&B music.
 
 {% include feature/image.html objectid="singer012" width="75" %}
 
